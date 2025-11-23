@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Card, CardBody, Button, Chip } from "@heroui/react";
 import { Zap, CheckCircle2, Clock, ArrowRight, Flame } from "lucide-react";
 

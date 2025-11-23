@@ -2,7 +2,7 @@
 
 
 
-import UrgentBanner from "@/components/UrgentFindRoom";
+
 import DefaultLayout from "@/layouts/default";
 import Home from "@/pages/Home";
 
